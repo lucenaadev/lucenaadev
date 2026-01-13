@@ -4,7 +4,7 @@
 💻 Desenvolvedor em formação com foco em **Java** e **Spring Boot**
 
 Skills:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,git,js&perline=3)](https://skillicons.dev)
 
 ### 🚀 Atualmente estudando
 - Spring Boot  
