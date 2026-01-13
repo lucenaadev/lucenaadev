@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Adailton Lucena
 
-<!--
-**lucenaadev/lucenaadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+💻 Desenvolvedor em formação com foco em **Java** e **Spring Boot**
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Atualmente estudando
+- Spring Boot  
+- SQL (em início)  
+- HTML, CSS, JavaScript  
+- React  
+
+### 🛠️ O que você vai encontrar aqui
+- Exercícios práticos de cursos  
+- Projetos de estudo  
+- Experimentos e aplicações em desenvolvimento  
+- Evolução contínua como desenvolvedor  
+
+### 🎯 Objetivo
+Consolidar a base em backend com Java e Spring, evoluir no
+desenvolvimento web e construir projetos que resolvam problemas reais.
