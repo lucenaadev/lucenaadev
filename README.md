@@ -3,7 +3,8 @@
 🎓 Estudante de Engenharia de Software  
 💻 Desenvolvedor em formação com foco em **Java** e **Spring Boot**
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css)](https://skillicons.dev)
+Skills:
+[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,git)](https://skillicons.dev)
 
 ### 🚀 Atualmente estudando
 - Spring Boot  
